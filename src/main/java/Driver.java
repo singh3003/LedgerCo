@@ -6,8 +6,7 @@ import javax.xml.bind.ValidationException;
 import java.io.*;
 import java.util.*;
 
-public class Geektrust {
-    
+public class Driver {
     public static void main(String[] args) throws IOException, ValidationException {
 
         String filePath = args[0];
